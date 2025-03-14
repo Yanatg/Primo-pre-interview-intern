@@ -5,7 +5,7 @@
 
 ```
 git clone https://github.com/Yanatg/Primo-pre-interview-intern.git
-cd primo-pre-test
+cd Primo-pre-interview-intern
 ```
 
 2. Install Dependencies
@@ -33,7 +33,7 @@ console.log(mergedArray); // Output: [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 ## Project Structure
 ```
-primo-pre-test/
+Primo-pre-interview-intern/
 ├── src/
 │   ├── merge.test.ts
 │   └── merge.ts
